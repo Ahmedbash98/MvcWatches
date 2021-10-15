@@ -73,3 +73,16 @@ More than one DbContext was found. Specify which one to use. Use the '-Context' 
 2212 Add some watches images as well ass some css for the images
 2332 Created a Github repository to backup my application.
 
+2335 tryied to publish the app on Azur but I am getting some erorrs ))):
+
+2021-10-15
+
+1750 Tried to publish Azur agian using the tutorial but got this error 
+You're not eligible for an Azure free account
+The Azure free account is only available to new customers. You've previously signed up with this email address, but you can keep going with pay-as-you-go pricing.)))));
+
+1800 Going to Invite Prof Andrew to collaborators to a personal repository and submit the Assignment.
+
+The End
+
+
