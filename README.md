@@ -68,6 +68,6 @@ More than one DbContext was found. Specify which one to use. Use the '-Context' 
 1939 Examined the Details, Delete and DeleteConfirmed methods of the Watches app
 2020 change some style like font, color, background color etc...
 2030 Add About US page
-
+ 
 
 2212 Add some watches images as well ass some css for the images
